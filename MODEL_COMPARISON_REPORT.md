@@ -780,4 +780,8 @@ segmented_df['cluster'] = clusters
 
 ---
 
+![Analysis Visualization](assets/image.png)
+
+---
+
 *End of Report*
